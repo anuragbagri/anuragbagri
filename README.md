@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web3**
 
-- 💬 Ask me about **next.js solidity foundry**
+- 💬 Ask me about **rust solana**
 
 - 📫 How to reach me **anurag123bagri@gmail.com**
 
